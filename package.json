@@ -1,0 +1,23 @@
+{
+  "name": "defi_brillator",
+  "version": "1.0.0",
+  "description": "Game on blockchain polygon",
+  "main": "index.js",
+  "scripts": {
+    "test": "Pacman super hedgehog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Octobamble/defi_brillator.git"
+  },
+  "keywords": [
+    "game",
+    "pacman"
+  ],
+  "author": "octobamble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Octobamble/defi_brillator/issues"
+  },
+  "homepage": "https://github.com/Octobamble/defi_brillator#readme"
+}
