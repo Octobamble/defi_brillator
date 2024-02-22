@@ -1,6 +1,6 @@
 {
   "name": "defi_brillator",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Game on blockchain polygon",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,7 @@
   ],
   "author": "octobamble",
   "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Octobamble/defi_brillator/issues"
   },
